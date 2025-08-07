@@ -1,6 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/benkosiek">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Major</a>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/benkosiek">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">
 
 - <b>Python Object Oriented Projects (AlgoExpert)</b>
   - Live Transport Monitoring System(https://github.com/joshmadakor1/Algorithms-Practice)
