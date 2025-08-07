@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ben! </h1>
-<br/>
+
 
 - <b>Python Object Oriented Projects (AlgoExpert)</b>
   - Live Transport Monitoring System(https://github.com/joshmadakor1/Algorithms-Practice)
