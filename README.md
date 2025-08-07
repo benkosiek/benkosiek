@@ -1,4 +1,11 @@
 <h1>Hi, I'm Ben! </h1>
+<h1>Skills</h1>
+- Python Object Oriented Programming
+- Java Object Oriented Programming
+- Front-end Web Development using HTML, CSS
+- Cybersecurity
+- Data Structures and Algorithims
+
 
 
 - <b>Python Object Oriented Projects (AlgoExpert)</b>
