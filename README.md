@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ben! </h1>
-<h1>Skills</h1>
+<h2>Skills</h2>
 - Python Object Oriented Programming
 - Java Object Oriented Programming
 - Front-end Web Development using HTML, CSS
@@ -7,7 +7,7 @@
 - Data Structures and Algorithims
 
 
-
+<h2>Projects</h2>
 - <b>Python Object Oriented Projects (AlgoExpert)</b>
   - Live Transport Monitoring System(https://github.com/joshmadakor1/Algorithms-Practice)
   - Multiplayer Turnbased Game(https://github.com/benkosiek/Turn-based-Game.git)
