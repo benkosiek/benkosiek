@@ -6,6 +6,15 @@
 - Cybersecurity
 - Data Structures and Algorithims
 
+<h2>Relevant Coursework and Bootcamps</h2>
+  - The Complete Full-Stack Web Development Bootcamp (Udemy)
+  - Learn Python Programming - Begginer to Master (Udemy)
+  - Data Structures and Algorithims
+  - Object Oriented Design (Python and Java)
+  - Operating Systems (C)
+  - Linear Algebra
+  - Cybersecurity (Kali Linux)
+
 
 <h2>Projects</h2>
 - <b>Python Object Oriented Projects (AlgoExpert)</b>
