@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/benkosiek">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Major</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Python Object Oriented Projects (AlgoExpert)</b>
+  - Live Transport Monitoring System(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Multiplayer Turnbased Game(https://github.com/benkosiek/Turn-based-Game.git)
+- <b>Java Object Oriented Projetcs (AlgoExpert)</b>
+  - CanvasAPI(https://github.com/benkosiek/CanvasAPI1.git)
+  - Puzzle Game Using Azure OpenAi and DALLE(https://github.com/benkosiek/Puzzle_Game_Final.git)
+  - Road Trip Planer(https://github.com/benkosiek/RoadTripPathFinder.git)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="BenedyktKosiek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/kosiekbenedykt
 
 <!--
-**benkosiek/benkosiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
