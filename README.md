@@ -61,6 +61,7 @@
   <liObject Oriented Design (Python and Java)></li>
   <li>Operating Systems (C)</li>
   <li>Linear Algebra</li>
+  <li>Data Mining</li>  
   <li>Cybersecurity (Kali Linux)</li>
 
   </ul>
