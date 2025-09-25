@@ -6,6 +6,7 @@
   <li>Front-end Web Development using HTML, CSS</li>
   <li>Cybersecurity</li>
   <li>Data Structures and Algorithims</li>
+  <li>Machine Learning</li>
 </ul>
 
 <h2>Projects</h2>
