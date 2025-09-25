@@ -10,16 +10,48 @@
 </ul>
 
 <h2>Projects</h2>
+
 <b>Python Object Oriented Projects</b>
-  <ul>
-    <li>Live Transport Monitoring System(https://github.com/benkosiek/Live-public-transport-monitoring-tracking-system.git)</li>
-    <li>Multiplayer Turnbased Game(https://github.com/benkosiek/Turn-based-Game.git)</li>    
-  </ul>
- <b>Java Object Oriented Projetcs (AlgoExpert)</b>
-  <ul>
-    <li>CanvasAPI(https://github.com/benkosiek/CanvasAPI1.git)</li>
-    <li>Road Trip Planer(https://github.com/benkosiek/RoadTripPathFinder.git)</li>
-  </ul>
+<ul>
+  <li>
+    Live Transport Monitoring System –
+    <a href="https://github.com/benkosiek/Live-public-transport-monitoring-tracking-system.git" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
+  <li>
+    Multiplayer Turnbased Game –
+    <a href="https://github.com/benkosiek/Turn-based-Game.git" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
+</ul>
+
+<b>Java Object Oriented Projects (AlgoExpert)</b>
+<ul>
+  <li>
+    CanvasAPI –
+    <a href="https://github.com/benkosiek/CanvasAPI1.git" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
+  <li>
+    Road Trip Planner –
+    <a href="https://github.com/benkosiek/RoadTripPathFinder.git" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
+</ul>
+<b>Machine Learning Projects</b>
+<ul>
+  <li>
+    Titanic Survival Classification (CRISP-DM) –
+    <a href="https://github.com/benkosiek/titanic-classification-python" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
+</ul>
+
 
 <h2>Relevant Coursework and Bootcamps</h2>
 <ul>
