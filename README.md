@@ -25,6 +25,12 @@
       GitHub Repository
     </a>
   </li>
+  <li>
+    Chat Bot –
+    <a href="https://github.com/benkosiek/Chat-Bot" target="_blank">
+      GitHub Repository
+    </a>
+  </li>
 </ul>
 
 <b>Java Object Oriented Projects (AlgoExpert)</b>
