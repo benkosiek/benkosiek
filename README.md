@@ -33,7 +33,7 @@
   </li>
 </ul>
 
-<b>Java Object Oriented Projects (AlgoExpert)</b>
+<b>Java Object Oriented Projects </b>
 <ul>
   <li>
     CanvasAPI –
