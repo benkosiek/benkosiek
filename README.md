@@ -48,8 +48,6 @@
     </a>
   </li>
 </ul>
-<b>Machine Learning Projects</b>
-</ul>
 
 
 <h2>Relevant Coursework and Bootcamps</h2>
