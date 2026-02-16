@@ -49,13 +49,6 @@
   </li>
 </ul>
 <b>Machine Learning Projects</b>
-<ul>
-  <li>
-    Titanic Survival Classification (CRISP-DM) –
-    <a href="https://github.com/benkosiek/titanic-classification-python" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
 </ul>
 
 
