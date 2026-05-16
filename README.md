@@ -1,86 +1,33 @@
-<h1>Hi, I'm Ben! </h1>
-<h2>Skills</h2>
-<ul>
-  <li>Python Object Oriented Programming</li>
-  <li>Java Object Oriented Programming</li>
-  <li>Front-end Web Development using HTML, CSS</li>
-  <li>Cybersecurity</li>
-  <li>Data Structures and Algorithims</li>
-  <li>Machine Learning</li>
-</ul>
+## Hi, I'm Ben 👋
 
-<h2>Projects</h2>
+CS senior at Seton Hall heading into a cybersecurity master's in August 2026. I build full-stack applications and work at the intersection of software engineering and security.
 
-<b>Python Object Oriented Projects</b>
-<ul>
-  <li>
-    Live Transport Monitoring System –
-    <a href="https://github.com/benkosiek/Live-public-transport-monitoring-tracking-system.git" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
-  <li>
-    Multiplayer Turnbased Game –
-    <a href="https://github.com/benkosiek/Turn-based-Game.git" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
-  <li>
-    Chat Bot –
-    <a href="https://github.com/benkosiek/Chat-Bot" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
-</ul>
+### What I'm working on
 
-<b>Java Object Oriented Projects </b>
-<ul>
-  <li>
-    CanvasAPI –
-    <a href="https://github.com/benkosiek/CanvasAPI1.git" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
-  <li>
-    Road Trip Planner –
-    <a href="https://github.com/benkosiek/RoadTripPathFinder.git" target="_blank">
-      GitHub Repository
-    </a>
-  </li>
-</ul>
+**Care Costs America** — A consumer web app that lets patients compare hospital prices by insurance plan before they get care. Team project where I helped design the system architecture, built core parts of the Python/FastAPI backend (CMS Hospital Price Transparency data ingestion, procedure categorization), and developed React components for the hospital detail and price comparison experience.
+*Stack: Python, FastAPI, React, PostgreSQL, AWS S3, Docker*
 
+**[PirateFlow](https://github.com/poncema4/PirateFlow)** — Real-time campus space intelligence platform built with a team for a Seton Hall hackathon. Contributed across the React frontend, FastAPI backend, WebSocket occupancy dashboards, and Claude API integration for natural language room search.
+*Stack: React, FastAPI, WebSockets, Claude API, OpenCV*
 
-<h2>Relevant Coursework and Bootcamps</h2>
-<ul>
-  <li>The Complete Full-Stack Web Development Bootcamp (Udemy)</li>
-  <li> Learn Python Programming - Begginer to Master (Udemy)</li>
-  <li>Data Structures and Algorithims</li>
-  <liObject Oriented Design (Python and Java)></li>
-  <li>Operating Systems (C)</li>
-  <li>Linear Algebra</li>
-  <li>Data Mining</li>  
-  <li>Cybersecurity (Kali Linux)</li>
+**Home Server Infrastructure** — Production Ubuntu server running containerized services behind Cloudflare Tunnels with zero inbound ports exposed. Hardened with UFW, SSH key-only authentication, and Cloudflare Zero Trust Access policies.
+*Stack: Linux, Docker Compose, Nginx, Cloudflare, Bash*
 
-  </ul>
+### Cybersecurity
 
-<h2> Connect with me:</h2>
+- **Security Analyst** at Seton Hall University (Oct 2024 – Aug 2025): investigated phishing, smishing, and malware campaigns using CrowdStrike, Splunk, and Microsoft Defender
+- **1st Place** — Kean University Capture the Flag (March 2026), 3-person team
+- **3rd Place** — ISC2 NJ Chapter Capture the Flag (October 2025), 30-team competition
+- Areas: forensics, OSINT, cryptography, steganography, web exploitation
 
-[<img align="left" alt="BenedyktKosiek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Tech
 
+**Languages:** Python, Java, JavaScript, SQL, Bash
+**Web:** React, FastAPI, REST APIs, WebSockets, HTML, CSS
+**Infrastructure:** Docker, Nginx, Linux, AWS, Cloudflare, Git
+**Databases:** PostgreSQL, MySQL, SQLite
+**Security:** CrowdStrike, Splunk, Microsoft Defender, SIEM, EDR, Incident Response
 
-[linkedin]: https://linkedin.com/in/kosiekbenedykt
+### Connect
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/kosiekbenedykt) · [Website](https://benkosiek.com)
