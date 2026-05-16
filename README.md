@@ -11,6 +11,7 @@ CS senior at Seton Hall heading into a cybersecurity master's in August 2026. I 
 *Stack: React, FastAPI, WebSockets, Claude API, OpenCV*
 
 **Home Server Infrastructure** — Production Ubuntu server running containerized services behind Cloudflare Tunnels with zero inbound ports exposed. Hardened with UFW, SSH key-only authentication, and Cloudflare Zero Trust Access policies.
+
 *Stack: Linux, Docker Compose, Nginx, Cloudflare, Bash*
 
 ### Cybersecurity
